@@ -5,3 +5,7 @@
 * @package Jolie_theme
 *
 */
+.container {
+	width: 1160px;
+	margin: 0px auto;
+}
