@@ -14,6 +14,8 @@
 <title><?php wp_title( '|', true, 'right' ); ?></title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+<link rel='stylesheet' id='jolie_theme-default-css'  href='?php bloginfo( 'url' ); ?>/wp-content/themes/jolie_theme/css/default.css?ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jolie_theme_responsive-css'  href='<?php bloginfo( 'url' ); ?>/wp-content/themes/jolie_theme/css/responsive.css?ver=3.5.2' type='text/css' media='all' />
 
 <?php wp_head(); ?>
 </head>

@@ -17,6 +17,8 @@ Resetting and rebuilding styles have been helped along thanks to the fine work o
 Eric Meyer http://meyerweb.com/eric/tools/css/reset/index.html
 along with Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 and Blueprint http://www.blueprintcss.org/
+
+Styles in default and responsive.css will not overwite style.css
 */
 
 
